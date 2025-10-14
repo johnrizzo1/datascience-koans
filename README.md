@@ -17,26 +17,31 @@ Data Science Koans is an interactive learning platform that teaches data science
 ## 📚 What You'll Learn
 
 ### Level 1: Foundation (30 koans)
+
 - NumPy array operations and broadcasting
 - Pandas DataFrames and data manipulation
 - Basic data exploration techniques
 
 ### Level 2: Data Preparation (30 koans)
+
 - Data cleaning and quality assessment
 - Feature scaling and encoding
 - Feature engineering fundamentals
 
 ### Level 3: Model Fundamentals (30 koans)
+
 - Regression and classification basics
 - Model evaluation techniques
 - Understanding bias-variance tradeoff
 
 ### Level 4: Advanced Techniques (30 koans)
+
 - Clustering and dimensionality reduction
 - Ensemble methods (Random Forests, Boosting)
 - Hyperparameter tuning strategies
 
 ### Level 5: Best Practices (10 koans)
+
 - ML pipelines and workflows
 - Ethics and fairness in machine learning
 - Responsible data science practices
@@ -52,23 +57,27 @@ Data Science Koans is an interactive learning platform that teaches data science
 ### Installation
 
 1. **Clone the repository**
+
 ```bash
 git clone https://github.com/yourusername/datascience-koans.git
 cd datascience-koans
 ```
 
 2. **Create a virtual environment** (recommended)
+
 ```bash
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 ```
 
 3. **Install dependencies**
+
 ```bash
 pip install -r requirements.txt
 ```
 
 4. **Launch Jupyter**
+
 ```bash
 jupyter notebook
 ```
@@ -125,6 +134,7 @@ tracker.display_progress()
 ```
 
 This shows:
+
 - Overall completion percentage
 - Mastery levels by topic
 - Individual notebook progress
@@ -193,6 +203,7 @@ Your mastery in each topic is calculated based on completion:
 ## 🔮 Future Enhancements
 
 Planned additions:
+
 - Deep learning basics (TensorFlow/PyTorch)
 - Natural language processing koans
 - Time series analysis

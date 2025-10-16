@@ -225,7 +225,7 @@ MIT License - See LICENSE file for details
 
 - 🐛 **Issues**: Report bugs via GitHub Issues
 - 💬 **Discussions**: Join our community discussions
-- 📧 **Contact**: [Your contact info]
+- 📧 **Contact**: johnrizzo1@gmail.com
 
 ---
 

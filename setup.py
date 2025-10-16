@@ -14,7 +14,7 @@ setup(
     description="Learn data science through interactive koans",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/yourusername/datascience-koans",
+    url="https://github.com/johnrizzo1/ds-koans",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 3 - Alpha",
